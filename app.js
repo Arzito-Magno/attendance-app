@@ -1,7 +1,7 @@
 // ============================================================
 // PASTE YOUR APPS SCRIPT WEB APP URL HERE (ends in /exec)
 // ============================================================
-const SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzK270BdnoSfFyp2GJBm4qKyz7hZXXM7H28Xopctor7dTYEJSDw1GtxbyrnA9OMRwUXCw/exec';
 
 const FACE_MODEL_URL = 'https://cdn.jsdelivr.net/gh/justadudewhohacks/face-api.js@master/weights';
 
